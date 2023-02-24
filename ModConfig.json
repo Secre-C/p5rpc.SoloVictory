@@ -1,0 +1,29 @@
+{
+  "ModId": "p5rpc.SoloVictory",
+  "ModName": "Victory Screen Randomizer",
+  "ModAuthor": "SecreC.",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Randomizes between the regular team victory sequence and the solo Joker victory sequence, with a config option to force the solo Joker sequence.",
+  "ModDll": "p5rpc.SoloVictory.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/p5rpc.SoloVictory.dll",
+  "ModR2RManagedDll64": "x64/p5rpc.SoloVictory.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p5rpc.SoloVictory.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "Reloaded.Memory.SigScan.ReloadedII",
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p5r.exe"
+  ],
+  "ProjectUrl": ""
+}
